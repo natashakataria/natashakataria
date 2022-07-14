@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natashakataria
-- 👀 I’m aspiring to become Data Scientist
-- 🌱 Currently undergoing a 12 week training in Data Science with Digital Futures
+- 👀 I’m aspiring to become a Data Scientist
+- 🌱 Currently undergoing 12 week training on Data Science with Digital Futures
 
 
 <!---
