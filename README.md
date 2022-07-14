@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natashakataria
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning to code in Python Language
+- 👀 I’m aspiring to become Data Scientist
+- 🌱 Currently undergoing a 12 week training in Data Science with Digital Futures
 
 
 <!---
